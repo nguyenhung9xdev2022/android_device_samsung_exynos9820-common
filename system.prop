@@ -1,0 +1,2 @@
+# Samsung specific
+service.adb.tcp.port=5555
